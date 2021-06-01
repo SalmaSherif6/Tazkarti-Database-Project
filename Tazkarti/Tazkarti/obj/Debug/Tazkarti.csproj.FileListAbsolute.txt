@@ -1,0 +1,15 @@
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.csprojAssemblyReference.cache
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.Properties.Resources.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.csproj.GenerateResource.cache
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.csproj.CoreCompileInputs.cache
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\bin\Debug\Tazkarti.exe.config
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\bin\Debug\Tazkarti.exe
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\bin\Debug\Tazkarti.pdb
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.AdminForm.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.exe
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.pdb
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.LoginForm.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.ProfileForm.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.TicketsForm.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.UserForm.resources
+C:\Users\سلمىشريفاحمد\source\repos\Tazkarti\Tazkarti\obj\Debug\Tazkarti.TicketType.resources
